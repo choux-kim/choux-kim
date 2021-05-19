@@ -6,7 +6,7 @@ I'm interested in Data Science, Machine Learning, and FinTech
 * <b>Kookmin Universiy</b>, Bigdata & Business Analytics (Mar, 2019 ~ Feb, 2021)
 * <b>Korea National University of Arts</b>, Architecture (Mar, 2014 ~ Feb, 2018)
 <br><br><br>
-### 🔍 I'd completed following...
+### 🔍 I've completed following...
 ***
 * <b>AIIS</b> Bigdata FinTech Course (Dec, 2020 ~ Jul, 2021)
 * <b>University of California, Irvine</b> GREAT Program (Dec, 2020 ~ Feb, 2021)
