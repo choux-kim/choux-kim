@@ -10,7 +10,7 @@ I'm interested in Data Science, Machine Learning, and FinTech<br><br>
 <br><br><br>
 ### ✏️ I'd studied at...
 ***
-* <b>Kookmin Universiy</b>, Bigdata & Business Analytics (Mar, 2019 ~ Feb, 2021)
+* <b>Kookmin Universiy</b>, Business Analytics & Statistics (Mar, 2019 ~ Feb, 2021)
 * <b>Korea National University of Arts</b>, Architecture (Mar, 2014 ~ Feb, 2018)
 <br><br><br>
 ### 🔍 I've completed following...
